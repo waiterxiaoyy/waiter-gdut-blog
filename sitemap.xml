@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2022/03/31/hello-world/</loc>
+    <loc>https://waiterxiaoyy.gitee.io/waiter-gdut-blog/2022/03/31/hello-world/</loc>
     
     <lastmod>2022-03-31</lastmod>
     
@@ -12,8 +12,8 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
-    <lastmod>2022-03-31</lastmod>
+    <loc>https://waiterxiaoyy.gitee.io/waiter-gdut-blog</loc>
+    <lastmod>2022-04-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>

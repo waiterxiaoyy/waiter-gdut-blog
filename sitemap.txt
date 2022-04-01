@@ -1,2 +1,2 @@
-http://example.com/2022/03/31/hello-world/
-http://example.com/
+https://waiterxiaoyy.gitee.io/waiter-gdut-blog/2022/03/31/hello-world/
+https://waiterxiaoyy.gitee.io/waiter-gdut-blog

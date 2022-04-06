@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://waiterxiaoyy.gitee.io/waiter-gdut-blog/2021/04/06/%E4%BA%8C%E6%9C%AC%E4%B8%8A%E5%B2%B8%E5%B9%BF%E5%B7%A5%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8A%80%E6%9C%AF%EF%BC%8C%E8%BF%99%E4%BB%BD%E5%AD%A6%E6%B8%A3%E7%89%88%E7%BB%8F%E9%AA%8C%E5%B8%96%E4%BD%A0%E4%B8%8D%E8%83%BD%E9%94%99%E8%BF%87/</loc>
+    
+    <lastmod>2022-04-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://waiterxiaoyy.gitee.io/waiter-gdut-blog/2021/04/05/%E5%B9%BF%E5%B7%A5%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD389%E5%88%86%E5%88%9D%E8%AF%95%E7%AC%AC%E4%B8%80%EF%BC%8C%E8%AF%B7%E6%94%B6%E8%97%8F%E8%BF%99%E4%BB%BD5%E5%8D%83%E5%AD%97%E7%BB%8F%E9%AA%8C%E5%B8%96/</loc>
     
     <lastmod>2022-04-05</lastmod>
@@ -58,7 +67,7 @@
 
   <url>
     <loc>https://waiterxiaoyy.gitee.io/waiter-gdut-blog</loc>
-    <lastmod>2022-04-05</lastmod>
+    <lastmod>2022-04-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -66,21 +75,21 @@
   
   <url>
     <loc>https://waiterxiaoyy.gitee.io/waiter-gdut-blog/tags/%E5%BE%80%E5%B9%B4%E6%83%85%E5%86%B5/</loc>
-    <lastmod>2022-04-05</lastmod>
+    <lastmod>2022-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://waiterxiaoyy.gitee.io/waiter-gdut-blog/tags/%E5%AD%A6%E9%99%A2%E4%BB%8B%E7%BB%8D/</loc>
-    <lastmod>2022-04-05</lastmod>
+    <lastmod>2022-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://waiterxiaoyy.gitee.io/waiter-gdut-blog/tags/%E7%BB%8F%E9%AA%8C%E5%B8%96/</loc>
-    <lastmod>2022-04-05</lastmod>
+    <lastmod>2022-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -89,21 +98,21 @@
   
   <url>
     <loc>https://waiterxiaoyy.gitee.io/waiter-gdut-blog/categories/%E5%BE%80%E5%B9%B4%E6%83%85%E5%86%B5/</loc>
-    <lastmod>2022-04-05</lastmod>
+    <lastmod>2022-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://waiterxiaoyy.gitee.io/waiter-gdut-blog/categories/%E5%AD%A6%E9%99%A2%E4%BB%8B%E7%BB%8D/</loc>
-    <lastmod>2022-04-05</lastmod>
+    <lastmod>2022-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://waiterxiaoyy.gitee.io/waiter-gdut-blog/categories/%E7%BB%8F%E9%AA%8C%E5%B8%96/</loc>
-    <lastmod>2022-04-05</lastmod>
+    <lastmod>2022-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
